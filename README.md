@@ -1,16 +1,13 @@
-### Hi there 👋
+### Oii! Eu sou a Daiane 👋
 
-<!--
-**daaic/daaic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 Cursando Analise e Desenvolvimento de Sistemas
+- 📖 Estudando HTML e CSS
+- 😄 Pronomes: Ela/Dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/daaic">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daaic&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daaic&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  
